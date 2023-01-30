@@ -1,0 +1,10 @@
+{
+    "intro" : "I am the Star Wars Charcter list.",
+    "q1" : "What side are they?",
+    "q2" : "Are they use the force?",
+    "conclusion" : "It looks like your are",
+    "not_found" : "I do not recognize that character. Please tell me who it is.",
+    "repeat" : "Do you want to go again?",
+    "farewell" : "Goodbye.",
+    "contribution" : "Thank you for the contribution."
+}
